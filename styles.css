@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+.main {
+  width: 1386px;
+  height: 693px;
+}
+
+.background {
+  width: 1100px;
+  height: 550px;
+  margin: 175px auto;
+  background: #ffffff;
+  box-shadow: 0px 4px 100px 66px rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+profile-img {
+  width: 550px;
+  height: 550px;
+}
+
+.testimonial {
+  width: 477px;
+  height: 476px;
+
+  margin: 34px 41px 40px 32px;
+}
+
+.company {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 167.69%;
+  /* identical to box height, or 44px */
+  letter-spacing: 0.08em;
+  color: #525f7f;
+}
+
+.person-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 167.69%;
+  /* or 50px */
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.para {
+  width: 477px;
+  height: 279px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 160%;
+  /* or 40px */
+  color: #525f7f;
+}
+
+.twitter-icon {
+  margin-left: 437px;
+}
+
+.quotes-icon {
+  margin: 0 0 19px 0;
+}
